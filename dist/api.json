@@ -1,6 +1,23 @@
 {
-   "url": {
-      "name": "catastro"
-   },
-   "constructor": "M.plugin.Catastro"
+  "url": {
+    "name": "catastro"
+  },
+  "constructor": "M.plugin.Catastro",
+  "files": {
+    "ol": {
+      "scripts": "catastro.ol.min.js",
+      "styles": "catastro.min.css"
+    }
+  },
+  "metadata": {
+    "name": "catastro",
+    "description": "Localizador catastral",
+    "text": "Plugin para Mapea que incorpora un panel propio con un control de búsqueda catastral contra los Servicios Web de Catastro públicos, en dos modalidades",
+    "version": "1.0.0",
+    "date": "",
+    "author": "",
+    "org": "",
+    "tags": "mapea,plugin",
+    "icon": "./facade/assets/icons/icons.svg"
+  }
 }
