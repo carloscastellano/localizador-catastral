@@ -14,9 +14,9 @@
     "description": "Localizador catastral",
     "text": "Plugin para Mapea que incorpora un panel propio con un control de búsqueda catastral contra los Servicios Web de Catastro públicos, en dos modalidades",
     "version": "1.0.0",
-    "date": "",
+    "date": "Jun 26, 2019",
     "author": "",
-    "org": "",
+    "org": "Consejería de Medioambiente y Ordenación del Territorio de la Junta de Andalucía",
     "tags": "mapea,plugin",
     "icon": "./facade/assets/icons/icons.svg"
   }
